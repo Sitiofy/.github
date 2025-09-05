@@ -1,4 +1,3 @@
-
 # 👋 Welcome to Sitiofy
 
 ### 🇵🇭 Empowering Communities with Technology
