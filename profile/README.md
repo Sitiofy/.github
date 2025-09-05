@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/10b90692-35b8-43cc-8213-ad168b450b9f" />
+</p>
+
+
 # 👋 Welcome to Sitiofy
 
 ### 🇵🇭 Empowering Communities with Technology
